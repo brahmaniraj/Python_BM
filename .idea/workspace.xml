@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120c57fe-7d47-4ad7-8eaa-bd14a0e00ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Datatypes/Strings/isalnum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datatypes/Numbers/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datatypes/Strings/String_Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Git commands" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datatypes/Strings/isalnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datatypes/Strings/isalnum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datatypes/Strings/string_special_operators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="187">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -42,7 +46,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datatypes/Strings/count_method.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="221">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
@@ -61,16 +65,58 @@
         <entry file="file://$PROJECT_DIR$/Datatypes/Strings/reminder_format_operator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datatypes/Strings/isalnum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Datatypes/Strings/String_Methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="314" column="53" selection-start-line="314" selection-start-column="53" selection-end-line="314" selection-end-column="53" />
+              <folding>
+                <element signature="e#19#644#1" />
+                <element signature="e#646#968#1" />
+                <element signature="e#969#1171#1" />
+                <element signature="e#1172#1458#1" />
+                <element signature="e#1459#1782#1" />
+                <element signature="e#1783#2043#1" />
+                <element signature="e#2044#2433#1" />
+                <element signature="e#2434#2705#1" />
+                <element signature="e#2706#2987#1" />
+                <element signature="e#2988#3245#1" />
+                <element signature="e#3246#3716#1" />
+                <element signature="e#3717#3858#1" />
+                <element signature="e#3859#4345#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Git commands">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="257" selection-start-line="257" selection-end-line="257" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Strings/isalnum.py">
+        <entry file="file://$PROJECT_DIR$/Datatypes/Numbers/numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="209">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
@@ -97,11 +143,14 @@
         <option value="$PROJECT_DIR$/Datatypes/Strings/count_method.py" />
         <option value="$PROJECT_DIR$/Datatypes/Strings/format_method_stringspecial.py" />
         <option value="$PROJECT_DIR$/Datatypes/Strings/isalnum.py" />
+        <option value="$PROJECT_DIR$/Datatypes/Strings/String_Methods.py" />
+        <option value="$PROJECT_DIR$/Git commands" />
+        <option value="$PROJECT_DIR$/Datatypes/Numbers/numbers.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
     <option name="y" value="45" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
@@ -111,7 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,21 +172,17 @@
               <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
               <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.isalnum">
+  <component name="RunManager" selected="Python.numbers">
     <configuration name="count_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reminder_format_operator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Strings" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Numbers" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Strings/reminder_format_operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Numbers/numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +304,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.numbers" />
         <item itemvalue="Python.isalnum" />
         <item itemvalue="Python.count_method" />
         <item itemvalue="Python.string_special_operators" />
         <item itemvalue="Python.strings" />
-        <item itemvalue="Python.reminder_format_operator" />
       </list>
     </recent_temporary>
   </component>
@@ -282,36 +326,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="30" width="1260" height="640" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280943" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3280142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3280943" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3280142" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Datatypes/Strings/capitalize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datatypes/Strings/strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -321,15 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Datatypes/Strings/string_special_operators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datatypes/Strings/count_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -340,17 +369,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Strings/count_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Strings/capitalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Datatypes/Strings/reminder_format_operator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Datatypes/Strings/isalnum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="289">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Strings/String_Methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="314" column="53" selection-start-line="314" selection-start-column="53" selection-end-line="314" selection-end-column="53" />
+          <folding>
+            <element signature="e#19#644#1" />
+            <element signature="e#646#968#1" />
+            <element signature="e#969#1171#1" />
+            <element signature="e#1172#1458#1" />
+            <element signature="e#1459#1782#1" />
+            <element signature="e#1783#2043#1" />
+            <element signature="e#2044#2433#1" />
+            <element signature="e#2434#2705#1" />
+            <element signature="e#2706#2987#1" />
+            <element signature="e#2988#3245#1" />
+            <element signature="e#3246#3716#1" />
+            <element signature="e#3717#3858#1" />
+            <element signature="e#3859#4345#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Git commands">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="257" selection-start-line="257" selection-end-line="257" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Numbers/numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>

@@ -1,5 +1,9 @@
 #!usr/bin/python
 
+
+
+"""
+
 str1 = " "
 print("Alpha and numeric values test : ",str1.isalnum())
 
@@ -12,3 +16,4 @@ print(a.isalnum())
 print(b.isalnum())
 
 print(a.isdigit())
+"""
