@@ -315,5 +315,5 @@ chr()	frozenset()	list()	range()	vars()
 classmethod()	getattr()	locals()	repr()	zip()
 compile()	globals()	map()	reversed()	__import__()
 complex()	hasattr()	max()	round()
-delattr()	hash()	memoryview()	set()dsz
+delattr()	hash()	memoryview()	set()
 """
