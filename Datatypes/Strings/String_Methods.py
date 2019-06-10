@@ -35,6 +35,8 @@ str2 = "is"
 print (str1.rindex(str2))
 print (str1.index(str2))
 """
+
+
 """28
 rindex(str, beg=0, end=len(string))
 Same as index(), but search backwards in string.
@@ -56,13 +58,7 @@ str = "THIS is string example....wow!!!"
 print (str.isupper())
 """
 """17
-isupper()
-Returns
-true if string
-has
-at
-least
-one
+isupper() Returns true if string has at least one
 cased
 character and all
 cased
