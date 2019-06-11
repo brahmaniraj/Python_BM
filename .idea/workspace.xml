@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120c57fe-7d47-4ad7-8eaa-bd14a0e00ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Datatypes/Dictionaries/Basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Dictionaries/Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Dictionaries/Overview_dict" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/List/Overview_list" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Numbers/Overview_numbers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Tuple/Min_Max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Tuple/Tuple_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Tuple/Update_tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 1/Assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 1/Assignment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datatypes/Strings/String_Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Datatypes/Strings/String_Methods.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,91 +15,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Tuple/Conversion_functions_tuple_list.py">
+        <entry file="file://$PROJECT_DIR$/Assignment 1/Assignment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Tuple/Min_Max.py">
+        <entry file="file://$PROJECT_DIR$/Datatypes/Sets/sets_examples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Tuple/Update_tuple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Dictionaries/Basics.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Dictionaries/Methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Dictionaries/Overview_dict">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5610">
-              <caret line="330" column="59" selection-start-line="330" selection-start-column="59" selection-end-line="330" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/List/Overview_list">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="322" column="59" selection-start-line="322" selection-start-column="59" selection-end-line="322" selection-end-column="59" />
+            <state relative-caret-position="226">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Numbers/Overview_numbers">
+        <entry file="file://$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="449" column="64" selection-start-line="449" selection-start-column="64" selection-end-line="449" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Notes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Numbers/Numbers_methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="260">
+              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -154,6 +82,11 @@
         <option value="$PROJECT_DIR$/Datatypes/Dictionaries/Overview_dict" />
         <option value="$PROJECT_DIR$/Datatypes/List/Overview_list" />
         <option value="$PROJECT_DIR$/Datatypes/Numbers/Overview_numbers" />
+        <option value="$PROJECT_DIR$/Datatypes/Strings/Overview_strings" />
+        <option value="$PROJECT_DIR$/Datatypes/Tuple/Overview_tuple" />
+        <option value="$PROJECT_DIR$/Datatypes/Sets/Methods.py" />
+        <option value="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" />
+        <option value="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" />
       </list>
     </option>
   </component>
@@ -178,31 +111,18 @@
             <path>
               <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
               <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
               <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Dictionaries" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="List" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Numbers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="Sets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +148,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Methods">
+  <component name="RunManager" selected="Python.Sets_Methods">
     <configuration name="Basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,6 +162,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Dictionaries/Basics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Methods (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_BM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Python_BM\Datatypes\Sets\Sets_Methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Sets_Methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Tuple/Tuple_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,7 +233,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Update_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sets_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,32 +241,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Tuple/Update_tuple.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_BM" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Tuple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Tuple/tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sets_Methods" />
+        <item itemvalue="Python.sets_examples" />
+        <item itemvalue="Python.Methods (1)" />
         <item itemvalue="Python.Methods" />
         <item itemvalue="Python.Basics" />
-        <item itemvalue="Python.Update_tuple" />
-        <item itemvalue="Python.Tuple_methods" />
-        <item itemvalue="Python.tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -361,12 +281,12 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280142" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3280142" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,13 +395,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assignment 1/Assignment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datatypes/Tuple/tuple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -563,6 +476,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="449" column="64" selection-start-line="449" selection-start-column="64" selection-end-line="449" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Strings/Overview_strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="308" column="75" selection-start-line="308" selection-start-column="75" selection-end-line="308" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Tuple/Overview_tuple">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="139" column="35" lean-forward="true" selection-start-line="139" selection-start-column="35" selection-end-line="139" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment 1/Assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Sets/sets_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
         </state>
       </provider>
     </entry>
