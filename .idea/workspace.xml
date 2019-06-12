@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120c57fe-7d47-4ad7-8eaa-bd14a0e00ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/Arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/Assignment operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/Comparision_Relational operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/Overview" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/logical.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,13 +30,67 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datatypes/Sets/sets_examples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="207">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Operators/Overview">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Operators/Arithmetic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Operators/Comparision_Relational operators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Operators/Assignment operators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Operators/logical.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Operators/bitwise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
@@ -85,8 +143,15 @@
         <option value="$PROJECT_DIR$/Datatypes/Strings/Overview_strings" />
         <option value="$PROJECT_DIR$/Datatypes/Tuple/Overview_tuple" />
         <option value="$PROJECT_DIR$/Datatypes/Sets/Methods.py" />
-        <option value="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" />
         <option value="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" />
+        <option value="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" />
+        <option value="$PROJECT_DIR$/Operators/Overview" />
+        <option value="$PROJECT_DIR$/Operators/Arithmetic.py" />
+        <option value="$PROJECT_DIR$/Operators/Comparison/relational operators.py" />
+        <option value="$PROJECT_DIR$/Operators/Comparision_Relational operators.py" />
+        <option value="$PROJECT_DIR$/Operators/Assignment operators.py" />
+        <option value="$PROJECT_DIR$/Operators/bitwise.py" />
+        <option value="$PROJECT_DIR$/Operators/logical.py" />
       </list>
     </option>
   </component>
@@ -116,13 +181,7 @@
             <path>
               <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="Sets" type="462c0819:PsiDirectoryNode" />
+              <item name="Operators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,8 +207,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sets_Methods">
-    <configuration name="Basics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.logical">
+    <configuration name="Arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Dictionaries/Basics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/Arithmetic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Methods (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Assignment operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Python_BM\Datatypes\Sets\Sets_Methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/Assignment operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Comparision_Relational operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Dictionaries/Methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/Comparision_Relational operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sets_Methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="bitwise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -220,11 +279,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/bitwise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,7 +292,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sets_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="logical" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -241,11 +300,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Datatypes/Sets" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/logical.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Sets_Methods" />
-        <item itemvalue="Python.sets_examples" />
-        <item itemvalue="Python.Methods (1)" />
-        <item itemvalue="Python.Methods" />
-        <item itemvalue="Python.Basics" />
+        <item itemvalue="Python.logical" />
+        <item itemvalue="Python.bitwise" />
+        <item itemvalue="Python.Assignment operators" />
+        <item itemvalue="Python.Comparision_Relational operators" />
+        <item itemvalue="Python.Arithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +351,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32269505" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3280142" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -500,17 +559,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Datatypes/Sets/sets_examples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Datatypes/Sets/sets_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/Overview">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/Comparison/relational operators.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/Arithmetic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/Comparision_Relational operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="30" column="11" lean-forward="true" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/Assignment operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/bitwise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/logical.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
         </state>
       </provider>
     </entry>
