@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120c57fe-7d47-4ad7-8eaa-bd14a0e00ebf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Operators/Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/Assignment operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/Comparision_Relational operators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/Overview" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/bitwise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/logical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_statements/Examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_statements/Nested_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_statements/Overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_statements/elif.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/While.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/Overview" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/Overview" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,37 +19,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment 1/Assignment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Sets/sets_examples.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Operators/Overview">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="419">
+              <caret line="333" selection-start-line="333" selection-end-line="333" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Operators/Arithmetic.py">
+        <entry file="file://$PROJECT_DIR$/Conditional_statements/Overview.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="124">
+              <caret line="10" selection-start-line="10" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional_statements/Examples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-80">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional_statements/elif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Conditional_statements/Nested_if.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Loops/While.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -72,11 +90,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Operators/logical.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="51">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -84,17 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Operators/bitwise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="561">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="60" column="35" selection-start-line="60" selection-start-column="35" selection-end-line="60" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -145,21 +154,25 @@
         <option value="$PROJECT_DIR$/Datatypes/Sets/Methods.py" />
         <option value="$PROJECT_DIR$/Datatypes/Sets/Sets_Methods.py" />
         <option value="$PROJECT_DIR$/Datatypes/Sets/sets_examples.py" />
-        <option value="$PROJECT_DIR$/Operators/Overview" />
         <option value="$PROJECT_DIR$/Operators/Arithmetic.py" />
         <option value="$PROJECT_DIR$/Operators/Comparison/relational operators.py" />
         <option value="$PROJECT_DIR$/Operators/Comparision_Relational operators.py" />
         <option value="$PROJECT_DIR$/Operators/Assignment operators.py" />
         <option value="$PROJECT_DIR$/Operators/bitwise.py" />
         <option value="$PROJECT_DIR$/Operators/logical.py" />
+        <option value="$PROJECT_DIR$/Operators/Overview" />
+        <option value="$PROJECT_DIR$/Conditional_statements/Overview.py" />
+        <option value="$PROJECT_DIR$/Conditional_statements/Examples.py" />
+        <option value="$PROJECT_DIR$/Conditional_statements/elif.py" />
+        <option value="$PROJECT_DIR$/Conditional_statements/Nested_if.py" />
+        <option value="$PROJECT_DIR$/Loops/While.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="45" />
-    <option name="width" value="1890" />
-    <option name="height" value="960" />
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -176,12 +189,7 @@
             <path>
               <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Assignment 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_BM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_BM" type="462c0819:PsiDirectoryNode" />
-              <item name="Operators" type="462c0819:PsiDirectoryNode" />
+              <item name="Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logical">
-    <configuration name="Arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.While">
+    <configuration name="Nested_if" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conditional_statements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/Arithmetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional_statements/Nested_if.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Assignment operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Overview" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conditional_statements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/Assignment operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional_statements/Overview.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Comparision_Relational operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="While" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/Comparision_Relational operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops/While.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bitwise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="elif" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_BM" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Operators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Conditional_statements" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Operators/bitwise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Conditional_statements/elif.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -315,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.While" />
+        <item itemvalue="Python.Nested_if" />
+        <item itemvalue="Python.elif" />
+        <item itemvalue="Python.Overview" />
         <item itemvalue="Python.logical" />
-        <item itemvalue="Python.bitwise" />
-        <item itemvalue="Python.Assignment operators" />
-        <item itemvalue="Python.Comparision_Relational operators" />
-        <item itemvalue="Python.Arithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -573,13 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Operators/Overview">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Operators/Comparison/relational operators.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -606,15 +607,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Operators/bitwise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
+        <state relative-caret-position="561">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Operators/logical.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Operators/Overview">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional_statements/Overview.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="10" selection-start-line="10" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional_statements/Examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional_statements/elif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditional_statements/Nested_if.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/While.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
