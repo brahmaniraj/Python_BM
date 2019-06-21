@@ -1,6 +1,7 @@
 import sys
 
 #file=open("/Users/Administrator/abc.txt")
+
 """
 for i in file:
     try:
@@ -12,14 +13,15 @@ for i in file:
         file.close()
 
 """
-import os
+
+import platform
 
 #print(os.getcwd()) #get current working directory
 
 #print(os.listdir("C:/Users/Administrator/Python_BM/ExceptionHandling")) #list of files in the directory
-
-#print(os.uname())
+os_info=platform.platform()
+print(os_info)
 
 #print(os.getpid())
 
-os.mkdir("test")
+#os.mkdir("test")
